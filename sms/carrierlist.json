@@ -1,0 +1,14 @@
+{
+    "Alltel":"@message.Alltel.com",
+    "Att" : "@txt.att.net",
+    "Att Mobility":"@cingularme.com",
+    "Boost" : "@myboostmobile.com",
+    "Cricket":"@sms.mycricket.com",
+    "Metro":"@mymetropcs.com",
+    "Sprint":"@messaging.sprintpcs.com",
+    "Nextel":"@page.nextel.com",
+    "Straight":"@VTEXT.COM",
+    "U.S. Cellular":"@email.uscc.net", 
+    "Verizon":"@vtext.com",
+    "Virgin":"@vmobl.com" 
+}
